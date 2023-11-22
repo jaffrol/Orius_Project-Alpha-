@@ -1,5 +1,5 @@
 # Rpg-maker
 Update
 <version: 1.10>
-  /data/video.zip https://mega.nz/file/Td1E3b7Y#XFr4DnCuadVn0rwMZDnIcT5RqCaZw7aNiuCPx6nazwg
+  /data/Orius.zip https://installer.launcher.xsolla.com/xlauncher-builds/xsolla-launcher-update/6805/bin/web_installer.exe
   <end of version>
