@@ -12,6 +12,7 @@
                   Mon site internet create by Jaffrolinux:PLAYSONLINUX for project opensource.
 
                                           ORIUS-Prototype-ALPHA
+
 <CENTER>
    <body style="background-color:#1c87c9;">
 </body>
