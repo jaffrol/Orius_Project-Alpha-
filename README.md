@@ -18,10 +18,12 @@
 <BR><BR>
 <img src="https://img.itch.zone/aW1nLzE3MzcxNTkuZ2lm/original/ccejQw.gif" height="300px" width="300px" /
 <BR><BR> 
-<H1>Veuillez choisir votre jeux & les logiciels pour Linux,Windows,Macos.  </H1>
+<H1>Veuillez choisir votre Naviguateur Web-games sur Linux, Windows, Macos.</H1>
 <BR><BR>
 <File Name to Open:> <Input type="text"
    name="GamesOnLinux"/>
+<BR><BR>
+<a href='https://www.indiexpo.net/fr/games/orius-project'><img src='https://www.indiexpo.net/signature/5335.png' /></a>
 <BR><BR>
 <input type="Button" name="Button"
    value="Orius Project Demo" onClick="()" />
@@ -58,11 +60,16 @@
  <input type="Button" name="Button6"
    value="steam-Workshop Par Dragonneau88"
       onClick="executeCommands(' + hasPARMS + ')" />
-<a href="https://gamejolt.com/games/Ludus-Games/832084">Jouez à Orius[compatible uniquement a falkon & Orion browser]</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3020968940">Decouvrez le projet
   <BR><BR>
    <CENTER>
    <img src="https://i.imgur.com/JKYFkzw.gif" height="200px" width="400px" /
 </CENTER>
+  <BR><BR>
+  <input type="Button" name="Button6"
+   value="steam-Workshop Par Dragonneau88"
+      onClick="executeCommands(' + hasPARMS + ')" />
+<a href="https://gamejolt.com/games/Ludus-Games/832084">Jouez à Orius[compatible uniquement a falkon & Orion browser]</a>
 </BODY>
 </FORM>
 </HTML>
